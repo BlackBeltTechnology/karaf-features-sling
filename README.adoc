@@ -1,0 +1,88 @@
+# Karaf feature Apache Sling
+
+Externsion to karaf which adds Apache Sling bundles to karaf features.
+
+To install some features features required. Please add the folloeing repository to your distribution (versions can be different, the tested versions are presented): 
+
+- mvn:org.apache.cxf.karaf/apache-cxf/3.3.1/xml/features 
+- mvn:org.apache.jclouds.karaf/jclouds-karaf/2.1/xml/features 
+- mvn:hu.blackbelt.karaf.features/javax/1.0.1/xml/features (Github: https://github.com/BlackBeltTechnology/karaf-features-javax)
+- mvn:hu.blackbelt.karaf.features/apache-httpclient/4.5.3_2/xml/features (Github: https://github.com/BlackBeltTechnology/karaf-features-apache-httpclient)
+- mvn:hu.blackbelt.karaf.features/apache-commons/1.0.2/xml/features (Github: https://github.com/BlackBeltTechnology/karaf-features-apache-commons)
+- mvn:hu.blackbelt.karaf.features/google/1.0.1/xml/features (Github: https://github.com/BlackBeltTechnology/karaf-features-google)
+- mvn:hu.blackbelt.karaf.features/antlr/1.0.0/xml/features (Github: https://github.com/BlackBeltTechnology/karaf-features-antlr)
+- mvn:hu.blackbelt.karaf.features/javassist/3.24.0_1/xml/features (Github: https://github.com/BlackBeltTechnology/karaf-features-javassist)
+
+
+## Features:
+
+- sling-commons
+- sling
+- sling-auth-form
+- sling-commons-clam
+- sling-commons-compiler
+- sling-commons-classloader
+- sling-commons-fsclassloader
+- sling-commons-html
+- sling-commons-metrics
+- sling-commons-scheduler
+- sling-commons-threads
+- sling-adapter
+- sling-bundleresource
+- sling-caconfig
+- sling-clam
+- sling-discovery
+- sling-discovery-oak
+- sling-discovery-standalone
+- sling-distribution
+- sling-event
+- sling-featureflags
+- sling-fsresource
+- sling-healthcheck
+- sling-i18n
+- sling-jmx-provider
+- sling-models
+- sling-models-jacksonexporter
+- sling-pipes
+- sling-query
+- sling-resource-inventory
+- sling-resource-presence
+- sling-resourcemerger
+- sling-rewriter
+- sling-security
+- sling-extension-threaddump
+- sling-urlrewriter
+- sling-validation
+- sling-xss
+- sling-installer
+- sling-installer-healthcheck
+- sling-installer-provider-file
+- sling-installer-provider-jcr
+- sling-jcr
+- sling-jcr-compiler
+- sling-jcr-jackrabbit-security
+- sling-jcr-repoint
+- sling-nosql-generic
+- sling-nosql-couchbase
+- sling-nosql-mongodb
+- sling-quickstart-nosql-couchbase
+- sling-quickstart-nosql-mongodb
+- sling-quickstart-oak
+- sling-quickstart-oak-tar
+- sling-quickstart-oak-mongo
+- sling-scripting
+- sling-scripting-freemarker
+- sling-scripting-groovy
+- sling-scripting-java
+- sling-scripting-javascript
+- sling-scripting-jsp
+- sling-scripting-sighty
+- sling-scripting-thymeleaf
+- sling-servlets
+- sling-starter-content
+- jackribbit
+- jackrabbit-oak
+- jackrabbit-vault
+- tika
+- composum
+
