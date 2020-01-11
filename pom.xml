@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>hu.blackbelt.karaf.features</groupId>
     <version>1.0.1-SNAPSHOT</version>
@@ -11,12 +9,12 @@
 
     <properties>
         <karaf-version>4.2.5</karaf-version>
-        <javax-karaf-features-version>1.0.1</javax-karaf-features-version>
-        <apache-commons-karaf-features-version>1.0.2</apache-commons-karaf-features-version>
-        <apache-httpclient-karaf-features-version>4.5.3_2</apache-httpclient-karaf-features-version>
-        <google-karaf-features-version>1.0.1</google-karaf-features-version>
-        <antlr-karaf-features-version>1.0.0</antlr-karaf-features-version>
-        <javassist-karaf-features-version>3.24.0_1</javassist-karaf-features-version>
+        <javax-karaf-features-version>1.0.3.20191112_144806_b87b261_develop</javax-karaf-features-version>
+        <apache-commons-karaf-features-version>1.0.6.20191112_150120_8396e08_develop</apache-commons-karaf-features-version>
+        <apache-httpclient-karaf-features-version>1.0.1.20200111_213046_71bd9f7_develop</apache-httpclient-karaf-features-version>
+        <google-karaf-features-version>1.0.4.20200111_234307_71d7237_develop</google-karaf-features-version>
+        <antlr-karaf-features-version>1.0.2.20191112_150321_54f0b2e_develop</antlr-karaf-features-version>
+        <javassist-karaf-features-version>1.0.0.20191112_144956_f6a8a36_develop</javassist-karaf-features-version>
         <cxf-version>3.3.1</cxf-version>
         <jclouds-version>2.1.0</jclouds-version>
     </properties>
