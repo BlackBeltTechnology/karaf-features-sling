@@ -14,7 +14,7 @@
         <apache-httpclient-karaf-features-version>1.0.0</apache-httpclient-karaf-features-version>
         <google-karaf-features-version>1.0.3</google-karaf-features-version>
         <antlr-karaf-features-version>1.0.1</antlr-karaf-features-version>
-        <javassist-karaf-features-version>1.0.0.20191112_144956_f6a8a36_develop</javassist-karaf-features-version>
+        <javassist-karaf-features-version>1.0.1</javassist-karaf-features-version>
         <cxf-version>3.3.1</cxf-version>
         <jclouds-version>2.1.0</jclouds-version>
     </properties>
