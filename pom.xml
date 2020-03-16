@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>hu.blackbelt.karaf.features</groupId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <artifactId>sling</artifactId>
     <name>Sling karaf feature project</name>
@@ -12,7 +12,7 @@
         <javax-karaf-features-version>1.0.2</javax-karaf-features-version>
         <apache-commons-karaf-features-version>1.0.5</apache-commons-karaf-features-version>
         <apache-httpclient-karaf-features-version>1.0.0</apache-httpclient-karaf-features-version>
-        <google-karaf-features-version>1.0.3</google-karaf-features-version>
+        <google-karaf-features-version>1.0.4</google-karaf-features-version>
         <antlr-karaf-features-version>1.0.1</antlr-karaf-features-version>
         <javassist-karaf-features-version>1.0.1</javassist-karaf-features-version>
         <cxf-version>3.3.1</cxf-version>
